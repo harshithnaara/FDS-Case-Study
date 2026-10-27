@@ -1,0 +1,9 @@
+Feature,Coefficient,Odds Ratio
+Embarked_Q,0.2812,1.3247
+Fare,0.0022,1.0022
+Age,-0.0385,0.9622
+Parch,-0.0709,0.9316
+SibSp,-0.2438,0.7836
+Embarked_S,-0.3828,0.6819
+Pclass,-1.0919,0.3356
+Sex_male,-2.5579,0.0775

@@ -1,0 +1,11 @@
+,Importance
+poutcome_success,0.1956
+age,0.1022
+pdays,0.0862
+balance,0.078
+day,0.0708
+housing,0.0489
+previous,0.042
+month_mar,0.0342
+contact_unknown,0.0339
+campaign,0.0328

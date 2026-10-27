@@ -1,0 +1,5 @@
+,TN,FP,FN,TP
+Logistic Regression,7891,94,871,187
+Decision Tree,7874,111,861,197
+KNN,7817,168,851,207
+Random Forest,7902,83,870,188
